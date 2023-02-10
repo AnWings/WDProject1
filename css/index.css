@@ -1,0 +1,16 @@
+body 
+{
+    font-family: "Gill Sans";
+    background-color: aquamarine;
+    text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
+}
